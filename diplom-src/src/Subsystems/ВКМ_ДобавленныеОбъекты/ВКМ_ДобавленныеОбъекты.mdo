@@ -6,5 +6,4 @@
     <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
