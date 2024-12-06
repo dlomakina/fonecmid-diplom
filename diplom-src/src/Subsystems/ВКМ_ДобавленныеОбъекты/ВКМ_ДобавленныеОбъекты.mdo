@@ -6,4 +6,6 @@
     <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
 </mdclass:Subsystem>
