@@ -8,4 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиента</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
 </mdclass:Subsystem>
