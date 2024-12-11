@@ -10,4 +10,7 @@
   <content>Catalog.ВКМ_ФизическиеЛица</content>
   <content>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
 </mdclass:Subsystem>

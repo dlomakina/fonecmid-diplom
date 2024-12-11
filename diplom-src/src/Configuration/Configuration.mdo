@@ -817,6 +817,7 @@
   <commonModules>CommonModule.ФайловаяСистемаСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ФайловаяСистемаСлужебныйКлиентСервер</commonModules>
   <commonModules>CommonModule.ФизическиеЛицаКлиентСервер</commonModules>
+  <commonModules>CommonModule.ВКМ_Телеграм</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <xDTOPackages>XDTOPackage.ApdexExport</xDTOPackages>
   <xDTOPackages>XDTOPackage.ApdexExport_1_0_0_2</xDTOPackages>
@@ -1041,6 +1042,8 @@
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
   <constants>Constant.УчетнаяЗаписьДляВосстановленияПароля</constants>
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
+  <constants>Constant.ВКМ_ТокенУправленияТелеграмБотом</constants>
+  <constants>Constant.ВКМ_ИдентификаторГруппыДляОповещения</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
