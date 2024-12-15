@@ -14,4 +14,5 @@
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>CommonModule.ВКМ_Телеграм</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаНакопленныхСообщенийВТелеграм</content>
 </mdclass:Subsystem>
