@@ -564,16 +564,17 @@
   <roles>Role.РедактированиеРеквизитовОбъектов</roles>
   <roles>Role.РежимТехническогоСпециалиста</roles>
   <roles>Role.СохранениеДанныхПользователя</roles>
+  <roles>Role.ЧтениеДополнительныхОтчетовИОбработок</roles>
   <roles>Role.УдаленныйДоступБазоваяФункциональность</roles>
   <roles>Role.ЧтениеВариантовОтчетов</roles>
   <roles>Role.ЧтениеВзаиморасчетовСПокупателями</roles>
   <roles>Role.ЧтениеВзаиморасчетовСПоставщиками</roles>
   <roles>Role.ЧтениеВнешнихПользователей</roles>
-  <roles>Role.ЧтениеДополнительныхОтчетовИОбработок</roles>
   <roles>Role.ЧтениеДополнительныхСведений</roles>
   <roles>Role.ЧтениеНСИ</roles>
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиента</roles>
+  <roles>Role.ВКМ_МассовоеСозданиеДокументовРеализации</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</commonTemplates>
