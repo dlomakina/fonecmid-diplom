@@ -2,7 +2,7 @@
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
     <key>ru</key>
-    <value>Массовое создание документов Реализация товаров и услуг</value>
+    <value>Массовое создание документов Реализация товаров и услуг по абонентским договорам</value>
   </title>
   <items xsi:type="form:FormGroup">
     <name>ГруппаПериодСоздать</name>
