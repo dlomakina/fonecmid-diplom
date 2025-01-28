@@ -18,4 +18,6 @@
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_МассовоеСозданиеДокументовРеализации</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
 </mdclass:Subsystem>
