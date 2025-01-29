@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="789ed86b-72cf-4c05-aa22-bb38bc41cf2c">
+  <producedTypes>
+    <objectType typeId="5c5f5fe3-e351-4be0-afdf-9bcfb000890b" valueTypeId="3fbd438b-9c08-47f0-aab6-371a3caf14dc"/>
+    <refType typeId="3032b1ac-5aee-42ae-8b9a-3ff80bb56fc3" valueTypeId="52c5e90c-a701-409c-97d2-dfff496bcca2"/>
+    <selectionType typeId="5b1e01c6-2296-4122-b02b-62a2c109b230" valueTypeId="59418a3d-0546-473c-ba70-246e2d061932"/>
+    <listType typeId="f78c09ca-492b-48ee-89b0-3131c9febafc" valueTypeId="2e30cbda-16e1-4483-b5eb-10a7f6905467"/>
+    <managerType typeId="ba53f453-03e9-4651-8c7e-a496531d9e25" valueTypeId="7407e241-6db7-41fb-a531-20d317953658"/>
+    <displacingCalculationTypesType typeId="12b1fcec-5401-4b1a-8ced-2dfcba621ff3" valueTypeId="5110fe3a-7a1e-414f-9925-80e7be90b488"/>
+    <displacingCalculationTypesRowType typeId="281f85ca-3dfd-4bfc-b44a-6df10a1225d5" valueTypeId="bb4ac910-709c-4f98-a5e5-745a7098e374"/>
+    <baseCalculationTypesType typeId="737cd817-dfe6-4bcc-a356-67d78198ac0f" valueTypeId="739c9a10-feac-4e9c-8467-28b44b01b49c"/>
+    <baseCalculationTypesRowType typeId="1d505502-9b9f-4ff0-9633-b2bb70f702a1" valueTypeId="47910f96-a89c-4163-951c-bec48026d403"/>
+    <leadingCalculationTypesType typeId="575604b1-7b29-4c22-b3e8-618d98030b74" valueTypeId="2c1a298c-9ce2-440a-8529-ad2390e38e78"/>
+    <leadingCalculationTypesRowType typeId="48ef05da-0dc0-416d-93cf-8459b992eb12" valueTypeId="bec1349c-87d0-4ad3-acbd-cd4628762a89"/>
+  </producedTypes>
+  <name>ВКМ_ОсновныеНачисления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Основные начисления</value>
+  </listPresentation>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
+  <actionPeriodUse>true</actionPeriodUse>
+</mdclass:ChartOfCalculationTypes>
