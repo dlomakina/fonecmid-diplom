@@ -98,6 +98,12 @@
       <chooseType>true</chooseType>
       <typeDomainEnabled>true</typeDomainEnabled>
       <textEdit>true</textEdit>
+      <choiceParameterLinks>
+        <name>Отбор.Ссылка</name>
+        <datapath xsi:type="form:DataPath">
+          <segments>Объект.Ref</segments>
+        </datapath>
+      </choiceParameterLinks>
     </extInfo>
   </items>
   <items xsi:type="form:FormField">
