@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac0181f9-8502-4e04-878d-4bd8a4d8dc82">
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac0181f9-8502-4e04-878d-4bd8a4d8dc82">
   <producedTypes>
     <objectType typeId="8dbfb763-4d7e-4dae-bb33-47ff8969a1a9" valueTypeId="ab8a0164-d880-4e0f-a245-49a5bdc1a72c"/>
     <refType typeId="ae587f74-9fa8-4f11-a4a3-3553851111bf" valueTypeId="9f43a542-ef04-4076-9bdc-4665a7ff159a"/>
@@ -42,4 +42,20 @@
   <choiceMode>BothWays</choiceMode>
   <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
+  <predefined>
+    <items id="c7f78066-550e-4664-af8b-8281fb8ed659">
+      <name>ВКМ_ФиксированнаяПремия</name>
+      <description>Премия</description>
+      <code xsi:type="core:StringValue">
+        <value>1</value>
+      </code>
+    </items>
+    <items id="66be0351-4a72-4c0c-8c01-c5a87d2dc3ea">
+      <name>ВКМ_ПроцентОтРабот</name>
+      <description>Процент от работ</description>
+      <code xsi:type="core:StringValue">
+        <value>2</value>
+      </code>
+    </items>
+  </predefined>
 </mdclass:ChartOfCalculationTypes>

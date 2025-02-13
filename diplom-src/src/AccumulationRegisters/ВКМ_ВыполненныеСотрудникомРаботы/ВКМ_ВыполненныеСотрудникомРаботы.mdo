@@ -25,7 +25,7 @@
     <name>ВКМ_ЧасовКОплате</name>
     <synonym>
       <key>ru</key>
-      <value>ВКМ часов к оплате</value>
+      <value>Часов к оплате</value>
     </synonym>
     <type>
       <types>Number</types>
@@ -43,7 +43,7 @@
     <name>ВКМ_СуммаКОплате</name>
     <synonym>
       <key>ru</key>
-      <value>ВКМ сумма к оплате</value>
+      <value>Сумма к оплате</value>
     </synonym>
     <type>
       <types>Number</types>
