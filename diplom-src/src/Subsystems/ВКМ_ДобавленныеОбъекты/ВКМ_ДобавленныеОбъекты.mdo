@@ -30,4 +30,5 @@
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
 </mdclass:Subsystem>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de5296e8-d425-48c3-9a09-4fe69a389ab2">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de5296e8-d425-48c3-9a09-4fe69a389ab2">
   <producedTypes>
     <objectType typeId="2020b623-7528-4f1b-9818-beb1936fd724" valueTypeId="e10f43d8-bd09-4177-ad3c-20928fbdea9e"/>
     <refType typeId="a8e12a10-e5f7-4beb-a435-24a60082f461" valueTypeId="60a04329-32a1-4e20-91f2-3c4cacfb6194"/>
@@ -36,6 +36,22 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="6b84fde4-34c1-421c-853e-19dcc3a5bfbf">
+      <name>Пятидневный</name>
+      <description>Пятидневный</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+    <items id="422eb8ed-52d2-4884-b89e-d000cff57997">
+      <name>Шестидневный</name>
+      <description>Шестидневный</description>
+      <code xsi:type="core:StringValue">
+        <value>000000002</value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
 </mdclass:Catalog>
