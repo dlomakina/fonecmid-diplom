@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8636578-37f3-42de-bf2f-e8256ee23a0b">
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8636578-37f3-42de-bf2f-e8256ee23a0b">
   <producedTypes>
     <objectType typeId="7673202b-b774-405f-aecc-190249eeb191" valueTypeId="e6318ef0-f47a-411e-9703-fd559c30331a"/>
     <refType typeId="38276c52-bb7a-4f31-9d57-4e910dbe4b9f" valueTypeId="a2560a60-faa7-4ae9-9cde-59732b413785"/>
@@ -43,4 +43,17 @@
   <dependenceOnCalculationTypes>OnRegistrationPeriod</dependenceOnCalculationTypes>
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
+  <predefined>
+    <items id="5bdc3f4f-3b3c-434d-8b9a-fc2151c6cea9">
+      <name>ВКМ_НДФЛ</name>
+      <description>НДФЛ</description>
+      <code xsi:type="core:StringValue">
+        <value>1</value>
+      </code>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.ВКМ_Оклад</base>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.ВКМ_Отпуск</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ВКМ_ФиксированнаяПремия</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ВКМ_ПроцентОтРабот</base>
+    </items>
+  </predefined>
 </mdclass:ChartOfCalculationTypes>

@@ -63,10 +63,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <attributes uuid="9eb6265c-1a66-4013-b80b-dfd24a6c51f9">
-    <name>ВКМ_ГрафикиРаботы</name>
+    <name>ВКМ_ГрафикРаботы</name>
     <synonym>
       <key>ru</key>
-      <value>ВКМ графики работы</value>
+      <value>ВКМ график работы</value>
     </synonym>
     <type>
       <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
