@@ -153,6 +153,13 @@
         <value></value>
       </code>
     </items>
+    <items id="e0d1e2ae-ed87-4791-bec5-7995e6090523">
+      <name>ВКМ_КадровикРасчетчик</name>
+      <description>Кадровик-расчетчик</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
   </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>

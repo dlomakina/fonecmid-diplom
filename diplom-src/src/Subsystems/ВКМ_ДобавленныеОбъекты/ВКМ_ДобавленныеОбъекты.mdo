@@ -34,4 +34,5 @@
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеКадровыхДокументов</content>
 </mdclass:Subsystem>

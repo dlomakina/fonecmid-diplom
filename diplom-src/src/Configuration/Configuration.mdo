@@ -575,6 +575,7 @@
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиента</roles>
   <roles>Role.ВКМ_МассовоеСозданиеДокументовРеализации</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеКадровыхДокументов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</commonTemplates>
